@@ -1,6 +1,6 @@
 <h1 align="center">Julio Cesar de Oliveira</h1>
 <p align="center">
-  Full Stack Engineer • ERP Integrations • Automation • Scalable Systems
+  Full Stack Engineer • ERP Integrations • NodeJS • ReactJS
 </p>
 
 <p align="center">
