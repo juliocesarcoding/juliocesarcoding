@@ -1,8 +1,23 @@
-# Julio Cesar de Oliveira
+<h1 align="center">Julio Cesar de Oliveira</h1>
+<p align="center">
+  Full Stack Engineer • ERP Integrations • Automation • Scalable Systems
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/julio-cesar-deoliveira-945723b9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/juliocesarcoding" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:julio.wisnieski@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 Full Stack Engineer focused on **ERP integrations, automation, and real-world systems that scale**.
-
-I don’t just build apps — I build systems that replace manual operations, integrate legacy ERPs, and generate measurable business impact.
 
 ---
 
@@ -100,14 +115,6 @@ I focus on **systems and outcomes**:
 
 ---
 
-## 🎯 What I’m Looking For
-
-- Remote opportunities (North America / Global)
-- Backend / Full Stack roles
-- Systems involving **integrations, scalability, and real business impact**
-
----
-
 ## 🌎 Languages
 
 - Portuguese: Native  
@@ -121,11 +128,3 @@ I focus on **systems and outcomes**:
 - GitHub: https://github.com/juliocesarcoding  
 - Email: julio.wisnieski@gmail.com  
 
----
-
-## ⚠️ Final Note
-
-Most systems break not because of code —  
-but because they fail to integrate with reality.
-
-That’s where I operate.
